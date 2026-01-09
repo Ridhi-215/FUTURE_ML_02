@@ -104,6 +104,15 @@ These features were visualized using Matplotlib.
 - Promoting long-term contracts can significantly reduce churn
 
 ---
+##  Model Evaluation & Insights
+
+###  Confusion Matrix – Logistic Regression
+![Confusion Matrix](screenshots/confusion_matrix_logistic_regression.png)
+
+###  Top 10 Features Driving Customer Churn
+![Feature Importance](screenshots/feature_importance_top10.png)
+
+---
 
 ##  Repository Structure
 
@@ -144,3 +153,4 @@ Guntur Ridhi
 📧 gunturridhi@gmail.com
 
 🔗 https://github.com/Ridhi-215
+
